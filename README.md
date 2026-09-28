@@ -6,7 +6,7 @@
 
   <!-- 2. SOCIAL MEDIA BADGES -->
   <p align="center">
-    <a href="https://linkedin.com/in/lutfialhamsyah" target="_blank">
+    <a href="https://www.linkedin.com/in/lutfi-alhamsyah" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:alhamsyahlutfi2007@gmail.com">
@@ -19,9 +19,9 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-- 🔭 Sedang fokus mendalami: **Software Engineering & Data**
-- 🌱 Sedang mempelajari: **Python, Java, & Web Development**
-- ⚡ Fun fact: Suka eksplorasi workflow otomatis dan optimasi sistem.
+- 🔭 Sedang fokus mendalami: **Project IT, Product IT, IT Government & Management IT**
+- 🌱 Sedang mempelajari: **Proyek Software Web & Agile**
+- ⚡ Fun fact: Suka eksplorasi merancang sesuatu.
 
 ---
 
