@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- 1. HEADER / BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Saya%20Lutfi!&fontSize=42&fontAlignY=38" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Saya%20Lutfi%20Alhamsyah!&fontSize=42&fontAlignY=38" alt="Header" width="100%" />
 
   <!-- 2. SOCIAL MEDIA BADGES -->
   <p align="center">
@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,C++,git,github,vscode&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,gcp,notion,obsidian,windows,gmail,spotify,discord&perline=10" alt="Skills" />
 </p>
 
 ---
