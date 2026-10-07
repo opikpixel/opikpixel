@@ -17,8 +17,10 @@
 </div>
 
 ---
-### Intro
-Saya Lutfi Alhamsyah, Mahasiswa Teknik Informatika Semester 3 dari UIN Sunan Gunung Djati Bandung. Isi repo opikpixel berisi proyek proyek ide yang terlintas di kepala . Semoga Menginspirasi 
+
+# 😁 Intro
+Saya **Lutfi Alhamsyah**, Mahasiswa Teknik Informatika Semester 3 dari UIN Sunan Gunung Djati Bandung. Isi repo @opikpixel berisi proyek proyek ide yang terlintas di kepala . Semoga Menginspirasi. 👉 DM : hailutf14lham@gmail.com.
+
 ---
 ### 👨‍💻 Tentang Saya
 - 🔭 Sedang fokus mendalami: **Project IT, Product IT, Cloud IT, IT Government & Management Expertise, Community Builder**
