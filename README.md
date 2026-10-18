@@ -1,53 +1,30 @@
-# Profile-opikpixel
-<!-- 1. HEADER / BANNER / IMAGE -->
-<div style="background: linear-gradient(to bottom, #7b2cbf, #240046); padding: 20px; text-align: center; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  
-  <!-- Komponen Gambar dan Teks Menggunakan SVG agar Kompatibel dengan GitHub -->
-  <svg width="100%" viewBox="0 0 300 200" style="max-width: 300px; display: block; margin: 0 auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-    <defs>
-      <!-- Pengaturan Warna Gradasi Rose Dusty -->
-      <linearGradient id="roseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#a36b71" stop-opacity="0" />
-        <stop offset="60%" stop-color="#a36b71" stop-opacity="0.85" />
-        <stop offset="100%" stop-color="#a36b71" stop-opacity="1" />
-      </linearGradient>
-    </defs>
+<!-- 1. BAGIAN GAMBAR / BANNER UTAMA -->
+<div align="center">
+  <img src="Image_profile.jpg" alt="Banner Lutfi Alhamsyah" width="400" />
+</div>
 
-  <!-- Gambar Utama (Ganti tautan di href jika menggunakan URL eksternal) -->
-  <image href="Image profile.jpg" width="300" height="200" preserveAspectRatio="xMidYMid slice" />
+<br />
 
-  <!-- Kotak Gradasi Warna di Atas Gambar -->
-  <rect width="300" height="100" y="100" fill="url(#roseGrad)" />
+<!-- 2. TEKS NAMA (Jika belum disatukan ke dalam file gambar) -->
+<div align="center">
+  <h3>LUTFI ALHAMSYAH</h3>
+  <p><sub>SUKHUMVIT MUSIC STATION LOST IN THE VERSE</sub></p>
+</div>
 
-  <!-- Teks Nama Utama -->
-  <text x="150" y="170" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle" letter-spacing="1">
-      LUTFI ALHAMSYAH
-    </text>
+<br />
 
-  <!-- Teks Sub-judul -->
-  <text x="150" y="185" fill="#ffffff" font-size="7" font-family="sans-serif" text-anchor="middle" letter-spacing="0.5" opacity="0.9">
-    SUKHUMVIT MUSIC STATION LOST IN THE VERSE
-  </text>
-</svg>
-  
-<!-- Jarak antara Komponen Gambar dan Badges -->
-<div style="height: 25px;"></div>
-
+<!-- 3. SOCIAL MEDIA BADGES (Menggunakan URL yang ramah proxy GitHub) -->
+<div align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:alhamsyahlutfi2007@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
 </div>
 
 
-
-  <!-- 2. SOCIAL MEDIA BADGES -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/lutfi-alhamsyah" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:alhamsyahlutfi2007@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
 
 ---
 
