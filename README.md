@@ -1,13 +1,13 @@
 <!-- 1. BAGIAN GAMBAR / BANNER UTAMA -->
 <div align="center">
-  <img src="Image_profile.jpg" alt="Banner Lutfi Alhamsyah" width="400" />
+  <img src="Image_profile.jpg" alt="Banner Lutfi Alhamsyah" width="1000" />
 </div>
 
 <br />
 
 <!-- 2. TEKS NAMA (Jika belum disatukan ke dalam file gambar) -->
 <div align="center">
-  <h3>LUTFI ALHAMSYAH</h3>
+  <h1>LUTFI ALHAMSYAH</h1>
   <p><sub>SUKHUMVIT MUSIC STATION LOST IN THE VERSE</sub></p>
 </div>
 
@@ -23,7 +23,6 @@
     <img src="https://shields.io" alt="Email" />
   </a>
 </div>
-
 
 
 ---
