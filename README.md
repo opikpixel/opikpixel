@@ -1,8 +1,41 @@
 # Profile-opikpixel
-<div align="center">
+<!-- 1. HEADER / BANNER / IMAGE -->
+<div style="background: linear-gradient(to bottom, #7b2cbf, #240046); padding: 20px; text-align: center; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  
+  <!-- Komponen Gambar dan Teks Menggunakan SVG agar Kompatibel dengan GitHub -->
+  <svg width="100%" viewBox="0 0 300 200" style="max-width: 300px; display: block; margin: 0 auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    <defs>
+      <!-- Pengaturan Warna Gradasi Rose Dusty -->
+      <linearGradient id="roseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#a36b71" stop-opacity="0" />
+        <stop offset="60%" stop-color="#a36b71" stop-opacity="0.85" />
+        <stop offset="100%" stop-color="#a36b71" stop-opacity="1" />
+      </linearGradient>
+    </defs>
 
-  <!-- 1. HEADER / BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Saya%20Lutfi%20Alhamsyah!&fontSize=42&fontAlignY=38" alt="Header" width="100%" />
+  <!-- Gambar Utama (Ganti tautan di href jika menggunakan URL eksternal) -->
+  <image href="Image profile.jpg" width="300" height="200" preserveAspectRatio="xMidYMid slice" />
+
+  <!-- Kotak Gradasi Warna di Atas Gambar -->
+  <rect width="300" height="100" y="100" fill="url(#roseGrad)" />
+
+  <!-- Teks Nama Utama -->
+  <text x="150" y="170" fill="#ffffff" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle" letter-spacing="1">
+      LUTFI ALHAMSYAH
+    </text>
+
+  <!-- Teks Sub-judul -->
+  <text x="150" y="185" fill="#ffffff" font-size="7" font-family="sans-serif" text-anchor="middle" letter-spacing="0.5" opacity="0.9">
+    SUKHUMVIT MUSIC STATION LOST IN THE VERSE
+  </text>
+</svg>
+  
+<!-- Jarak antara Komponen Gambar dan Badges -->
+<div style="height: 25px;"></div>
+
+</div>
+
+
 
   <!-- 2. SOCIAL MEDIA BADGES -->
   <p align="center">
