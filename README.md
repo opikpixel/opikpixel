@@ -2,16 +2,12 @@
 <div align="center">
   <img src="Image_profile.jpg" alt="Banner Lutfi Alhamsyah" width="1000" />
 </div>
-
 <br />
 
 <!-- 2. TEKS NAMA (Jika belum disatukan ke dalam file gambar) -->
 <div align="center">
   <h1>LUTFI ALHAMSYAH</h1>
-  <p><sub>SUKHUMVIT MUSIC STATION LOST IN THE VERSE</sub></p>
 </div>
-
-<br />
 
 <!-- 3. SOCIAL MEDIA BADGES (Menggunakan URL yang ramah proxy GitHub) -->
 <div align="center">
@@ -24,9 +20,7 @@
   </a>
 </div>
 
-
 ---
-
 # 😁 Intro
 Saya **Lutfi Alhamsyah**, Mahasiswa Teknik Informatika Semester 3 dari UIN Sunan Gunung Djati Bandung. Isi repo @opikpixel berisi proyek proyek ide yang terlintas di kepala . Semoga Menginspirasi. 👉 DM : hailutf14lham@gmail.com.
 
