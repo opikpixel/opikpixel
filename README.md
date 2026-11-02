@@ -9,7 +9,7 @@
     </span>
   </h1>
   <p>
-    <strong>Mahasiswa Teknik Informatika • Product Mindset • Cloud • IT Governance</strong>
+    <strong>Mahasiswa Teknik Informatika • Product Mindset • Cloud • Community Contribute</strong>
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 ---
 
 # 😁 Intro
-Saya **Lutfi Alhamsyah**, Mahasiswa Teknik Informatika Semester 3 dari UIN Sunan Gunung Djati Bandung. Repo ini berisi proyek-proyek ide yang terlintas di kepala, semoga dapat menginspirasi dan bermanfaat bagi orang lain.
+Saya **Lutfi Alhamsyah**, Mahasiswa Teknik Informatika Semester 3 dari UIN Sunan Gunung Djati Bandung. Repository di opikpixel berisi proyek-proyek dari ide yang ingin dibangun sendiri. Semoga dapat menginspirasi dan bermanfaat bagi orang lain.
 
 ---
 
