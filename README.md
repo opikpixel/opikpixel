@@ -44,7 +44,7 @@ Hello! Saya **Lutfi Alhamsyah**, mahasiswa Teknik Informatika yang suka membangu
 
 ### 🧰 Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,gcp,notion,obsidian,windows,discord,spotify&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,gcp,notion,obsidian,jira,clickup,windows,discord,spotify&perline=10" />
 </p>
 
 ---
